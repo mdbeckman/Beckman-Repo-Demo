@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages for Matt Beckman's GitHub Practice Exercise
+## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/mdbeckman/Beckman-Repo-Demo/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
